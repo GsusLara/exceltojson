@@ -1,0 +1,14 @@
+{
+  "name": "exceljson",
+  "version": "1.0.0",
+  "description": "converti un excel a json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jesus lara",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.17.1"
+  }
+}
